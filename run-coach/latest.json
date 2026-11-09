@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 43,
-  "versionName": "1.43",
-  "notes": "Simulation profile: simulated runs and bests kept separately; finer GPS track recording with a setting",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v43/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v43/RunCoach-watch.apk"
+  "versionCode": 44,
+  "versionName": "1.44",
+  "notes": "Route editor: full-screen map with compact tool bar; milestones shown on the map and mutable; vias labelled v1, v2",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v44/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v44/RunCoach-watch.apk"
 }
