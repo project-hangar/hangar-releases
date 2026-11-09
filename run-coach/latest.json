@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 40,
-  "versionName": "1.40",
-  "notes": "End-of-run stats: pace, fastest mile/km, avg and max heart rate, time in zones, splits (watch, phone, Reports)",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v40/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v40/RunCoach-watch.apk"
+  "versionCode": 41,
+  "versionName": "1.41",
+  "notes": "Ready screen before every run (summary, GPS status, Start) and a countdown (3/5/10 s or off)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v41/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v41/RunCoach-watch.apk"
 }
