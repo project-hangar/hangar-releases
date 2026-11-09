@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 54,
-  "versionName": "1.54",
-  "notes": "Silent countdown then Go; trim silence from 38 voice clips",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v54/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v54/RunCoach-watch.apk"
+  "versionCode": 55,
+  "versionName": "1.55",
+  "notes": "Watch maps: route runs cycle map 2D/3D/line/whole route; free runs map only with 2D/3D",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v55/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v55/RunCoach-watch.apk"
 }
