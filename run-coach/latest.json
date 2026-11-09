@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 57,
-  "versionName": "1.57",
-  "notes": "Restore always-on workout screen",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v57/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v57/RunCoach-watch.apk"
+  "versionCode": 58,
+  "versionName": "1.58",
+  "notes": "Watch map night mode (auto after sunset, moon/sun button), Map detail setting",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v58/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v58/RunCoach-watch.apk"
 }
