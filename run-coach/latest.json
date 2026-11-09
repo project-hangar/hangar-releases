@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 31,
-  "versionName": "1.31",
-  "notes": "Heart rate training: push & walk or jog & surge, Easy/Moderate/Hard, set pushes or continuous; zones and levels set on the phone",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v31/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v31/RunCoach-watch.apk"
+  "versionCode": 32,
+  "versionName": "1.32",
+  "notes": "Updates: recover when the install screen is lost (screen slept): show it again or cancel, no force-close needed",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v32/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v32/RunCoach-watch.apk"
 }
