@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 38,
-  "versionName": "1.38",
-  "notes": "Use corner detection when turning a line into an editable plan",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v38/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v38/RunCoach-watch.apk"
+  "versionCode": 40,
+  "versionName": "1.40",
+  "notes": "End-of-run stats: pace, fastest mile/km, avg and max heart rate, time in zones, splits (watch, phone, Reports)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v40/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v40/RunCoach-watch.apk"
 }
