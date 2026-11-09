@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 26,
-  "versionName": "1.26",
-  "notes": "Street map with your trail on free, distance and timed runs (watch: tap to switch map/stats); offline map download on the watch",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v26/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v26/RunCoach-watch.apk"
+  "versionCode": 28,
+  "versionName": "1.28",
+  "notes": "Fix speech test expectation",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v28/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v28/RunCoach-watch.apk"
 }
