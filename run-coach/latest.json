@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 45,
-  "versionName": "1.45",
-  "notes": "Phone map follows the pretend runner in simulation",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v45/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v45/RunCoach-watch.apk"
+  "versionCode": 46,
+  "versionName": "1.46",
+  "notes": "Add files via upload",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v46/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v46/RunCoach-watch.apk"
 }
