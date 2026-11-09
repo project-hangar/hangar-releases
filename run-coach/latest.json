@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 22,
-  "versionName": "1.22",
-  "notes": "Fix publishing latest.json",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v22/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v22/RunCoach-watch.apk"
+  "versionCode": 23,
+  "versionName": "1.23",
+  "notes": "Run menu matches Race: route, distance, time, free run, programmes; Yes/No save-as-route named by date",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v23/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v23/RunCoach-watch.apk"
 }
