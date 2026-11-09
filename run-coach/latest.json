@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 48,
-  "versionName": "1.48",
-  "notes": "Delete voice/mile.mp3",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v48/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v48/RunCoach-watch.apk"
+  "versionCode": 50,
+  "versionName": "1.50",
+  "notes": "Watch: Ready and Simulation screens fit without scrolling; word_mile voice",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v50/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v50/RunCoach-watch.apk"
 }
