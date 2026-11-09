@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 41,
-  "versionName": "1.41",
-  "notes": "Ready screen before every run (summary, GPS status, Start) and a countdown (3/5/10 s or off)",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v41/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v41/RunCoach-watch.apk"
+  "versionCode": 42,
+  "versionName": "1.42",
+  "notes": "Directions work with the screen off, never skipped and take priority; quiet zones, muted directions and a directions preview in the planner; gentle bends setting; progress encouragement; simulation mode with manual heart rate",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v42/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v42/RunCoach-watch.apk"
 }
