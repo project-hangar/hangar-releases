@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 29,
-  "versionName": "1.29",
-  "notes": "Phone home screen like the watch (Run, Race, Reports, Settings); stop menu: finish and save, discard, keep going; pacers sync both ways; phone run settings",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v29/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v29/RunCoach-watch.apk"
+  "versionCode": 30,
+  "versionName": "1.30",
+  "notes": "Stop menu: just say Discard",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v30/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v30/RunCoach-watch.apk"
 }
