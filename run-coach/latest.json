@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 42,
-  "versionName": "1.42",
-  "notes": "Directions work with the screen off, never skipped and take priority; quiet zones, muted directions and a directions preview in the planner; gentle bends setting; progress encouragement; simulation mode with manual heart rate",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v42/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v42/RunCoach-watch.apk"
+  "versionCode": 43,
+  "versionName": "1.43",
+  "notes": "Simulation profile: simulated runs and bests kept separately; finer GPS track recording with a setting",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v43/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v43/RunCoach-watch.apk"
 }
