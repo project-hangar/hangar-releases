@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 46,
-  "versionName": "1.46",
+  "versionCode": 47,
+  "versionName": "1.47",
   "notes": "Add files via upload",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v46/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v46/RunCoach-watch.apk"
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v47/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v47/RunCoach-watch.apk"
 }
