@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 55,
-  "versionName": "1.55",
-  "notes": "Watch maps: route runs cycle map 2D/3D/line/whole route; free runs map only with 2D/3D",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v55/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v55/RunCoach-watch.apk"
+  "versionCode": 57,
+  "versionName": "1.57",
+  "notes": "Restore always-on workout screen",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v57/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v57/RunCoach-watch.apk"
 }
