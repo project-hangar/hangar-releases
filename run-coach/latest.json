@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 59,
-  "versionName": "1.59",
-  "notes": "Splits on runs with a finish just say distance to go",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v59/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v59/RunCoach-watch.apk"
+  "versionCode": 60,
+  "versionName": "1.60",
+  "notes": "Join voice pieces into one sound; phone run map: plain style, 2D/3D, day/night",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v60/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v60/RunCoach-watch.apk"
 }
