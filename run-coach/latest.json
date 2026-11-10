@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 62,
-  "versionName": "1.62",
-  "notes": "Phone Run and Race pages rebuilt as card steps with a new Ready page",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v62/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v62/RunCoach-watch.apk"
+  "versionCode": 63,
+  "versionName": "1.63",
+  "notes": "Treadmill mode on watch and phone: steps, time, distance or free; step speech; correct distance afterwards",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v63/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v63/RunCoach-watch.apk"
 }
