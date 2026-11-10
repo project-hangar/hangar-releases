@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 58,
-  "versionName": "1.58",
-  "notes": "Watch map night mode (auto after sunset, moon/sun button), Map detail setting",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v58/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v58/RunCoach-watch.apk"
+  "versionCode": 59,
+  "versionName": "1.59",
+  "notes": "Splits on runs with a finish just say distance to go",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v59/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v59/RunCoach-watch.apk"
 }
