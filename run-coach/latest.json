@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 61,
-  "versionName": "1.61",
-  "notes": "New look: shared design system, icons, rebuilt phone home/run/settings and watch menus",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v61/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v61/RunCoach-watch.apk"
+  "versionCode": 62,
+  "versionName": "1.62",
+  "notes": "Phone Run and Race pages rebuilt as card steps with a new Ready page",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v62/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v62/RunCoach-watch.apk"
 }
