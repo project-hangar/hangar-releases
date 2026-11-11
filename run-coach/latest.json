@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 67,
-  "versionName": "1.67",
-  "notes": "Watch settings: updates last, sync above it (matches the phone)",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v67/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v67/RunCoach-watch.apk"
+  "versionCode": 69,
+  "versionName": "1.69",
+  "notes": "Fix name clash on the watch",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v69/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v69/RunCoach-watch.apk"
 }
