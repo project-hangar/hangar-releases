@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 66,
-  "versionName": "1.66",
-  "notes": "Voice: rename two combined clips, trim gaps from the new recordings",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v66/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v66/RunCoach-watch.apk"
+  "versionCode": 67,
+  "versionName": "1.67",
+  "notes": "Watch settings: updates last, sync above it (matches the phone)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v67/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v67/RunCoach-watch.apk"
 }
