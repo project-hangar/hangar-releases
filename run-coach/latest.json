@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 69,
-  "versionName": "1.69",
-  "notes": "Fix name clash on the watch",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v69/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v69/RunCoach-watch.apk"
+  "versionCode": 70,
+  "versionName": "1.70",
+  "notes": "Delete activities from Reports (phone and watch, stays deleted across sync)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v70/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v70/RunCoach-watch.apk"
 }
