@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 64,
-  "versionName": "1.64",
-  "notes": "Turn calls by time with look-ahead; combined voice clips used when recorded; Snap to roads label",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v64/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v64/RunCoach-watch.apk"
+  "versionCode": 65,
+  "versionName": "1.65",
+  "notes": "Add files via upload",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v65/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v65/RunCoach-watch.apk"
 }
