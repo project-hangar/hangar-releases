@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 63,
-  "versionName": "1.63",
-  "notes": "Treadmill mode on watch and phone: steps, time, distance or free; step speech; correct distance afterwards",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v63/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v63/RunCoach-watch.apk"
+  "versionCode": 64,
+  "versionName": "1.64",
+  "notes": "Turn calls by time with look-ahead; combined voice clips used when recorded; Snap to roads label",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v64/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v64/RunCoach-watch.apk"
 }
