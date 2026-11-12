@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 71,
-  "versionName": "1.71",
-  "notes": "Turn timing check: measure when turns were called, per-turn fine-tuning, suggestions per device, auto-fix",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v71/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v71/RunCoach-watch.apk"
+  "versionCode": 72,
+  "versionName": "1.72",
+  "notes": "Routes: Duplicate and Duplicate reversed",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v72/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v72/RunCoach-watch.apk"
 }
