@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 76,
-  "versionName": "1.76",
-  "notes": "Rename the app to Lazy Tech Runner; add Help and about on phone and watch",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v76/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v76/LazyTechRunner-watch.apk"
+  "versionCode": 77,
+  "versionName": "1.77",
+  "notes": "Check the new Lazy Tech Runner page for updates first, then the old location",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v77/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v77/LazyTechRunner-watch.apk"
 }
