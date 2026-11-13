@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 79,
-  "versionName": "1.79",
-  "notes": "Add files via upload",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v79/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v79/LazyTechRunner-watch.apk"
+  "versionCode": 80,
+  "versionName": "1.80",
+  "notes": "Friendlier split announcements: sentence openers (Well done, you've covered...)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v80/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v80/LazyTechRunner-watch.apk"
 }
