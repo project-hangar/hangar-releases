@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 74,
-  "versionName": "1.74",
-  "notes": "Fix brightness setting placement",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v74/RunCoach-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v74/RunCoach-watch.apk"
+  "versionCode": 75,
+  "versionName": "1.75",
+  "notes": "Several offline map areas (watch downloads, phone manages), settings sub-menus on both, No map here note",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v75/RunCoach-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v75/RunCoach-watch.apk"
 }
