@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 84,
-  "versionName": "1.84",
-  "notes": "Section select: look for the later pass at least a metre after the first tap",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v84/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v84/LazyTechRunner-watch.apk"
+  "versionCode": 85,
+  "versionName": "1.85",
+  "notes": "Phone: developer mode and Sound test page (play every voice clip, with its wording)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v85/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v85/LazyTechRunner-watch.apk"
 }
