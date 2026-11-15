@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 87,
-  "versionName": "1.87",
-  "notes": "Phone home: activity summary card with tap-to-change period, replacing Last run",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v87/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v87/LazyTechRunner-watch.apk"
+  "versionCode": 88,
+  "versionName": "1.88",
+  "notes": "Phone: drop stray folder from activity titles; route page top back bar, name saves on Done/back",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v88/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v88/LazyTechRunner-watch.apk"
 }
