@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 91,
-  "versionName": "1.91",
-  "notes": "Add files via upload",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v91/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v91/LazyTechRunner-watch.apk"
+  "versionCode": 92,
+  "versionName": "1.92",
+  "notes": "Voice: trim the 18 new clips, delete retired open_keep_it_up",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v92/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v92/LazyTechRunner-watch.apk"
 }
