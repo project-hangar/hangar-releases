@@ -1,8 +1,8 @@
 {
   "app": "run-coach",
-  "versionCode": 98,
-  "versionName": "1.98",
-  "notes": "Trends: fix smart cast on sinceFirstMs",
-  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v98/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v98/LazyTechRunner-watch.apk"
+  "versionCode": 99,
+  "versionName": "1.99",
+  "notes": "Phone: goals, optional body fat, AI integration with your own API key (Summarise, Edit prompt, Copy prompt)",
+  "phoneApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v99/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/project-hangar/hangar-releases/releases/download/run-coach-v99/LazyTechRunner-watch.apk"
 }
